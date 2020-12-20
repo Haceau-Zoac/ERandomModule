@@ -26,7 +26,7 @@ GUN 通用公共许可证3.0版本
 ### 模块
 可以从 Release 页面直接获取，也可以编译源码。
 #### 从 Releases 页面获取
-单击网页右方的 `[Releases](https://github.com/Haceau-Zoac/ERandomModule/releases)`，然后单击最上方一个版本下面的 `ERandomModule....ec` 。
+单击网页右方的 [`Releases`](https://github.com/Haceau-Zoac/ERandomModule/releases)，然后单击最上方一个版本下面的 `ERandomModule....ec` 。
 #### 编译
 ##### 需求
 * Git（非必须）
